@@ -9,13 +9,13 @@
 "results":[
     {
         "id":1,
-        "title":"",
-        "artist":"",
-        "type":"",
+        "title":"Dennis Rodman",
+        "artist":"Benoit Drigny",
+        "type":"ilustration",
         "dimensions":"",
-        "url":"",
-        "imagen":"",
-        "precio":""
+        "url":"https://dribbble.com/shots/24355490-Dennis-Rodman",
+        "imagen":"https://dribbble.com/shots/24355490-Dennis-Rodman",
+        "precio":"0.2 ETH"
     },
 
     {
