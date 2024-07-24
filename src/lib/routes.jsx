@@ -24,6 +24,10 @@ const router = createBrowserRouter([{
         {
             path:'producto/:productoId',
             element:<Producto/>
+        },
+        {
+            path:'*',
+            element:<ErrorPage/>
         }
     ]
 }]
