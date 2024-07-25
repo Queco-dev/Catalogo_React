@@ -1,8 +1,10 @@
 
-import {useState, useEffect } from "react"
-import Productos from "../components/Productos"
+import {useState, useEffect,useContext } from "react"
+import { ModoOscuroContext} from "../Layout"
 
 const Catalogo = () => {
+
+    const {tema}= useContext(ModoOscuroContext)
 
    const [ficha,setFicha]=useState([])
    //const [filterProducto,setFilterProducto]=useState([])
@@ -43,6 +45,7 @@ const Catalogo = () => {
             {ficha.map( (fichita,index)=>{
                 return(
                     <>
+                    <h1>Catalogo ({tema})</h1>
                     {/* <img src={fichita.imagen} alt={fichita.artist} />
                     <li key={fichita.id}>{fichita.artist}</li> */}
                     <Productos key={index} {...fichita}/>
