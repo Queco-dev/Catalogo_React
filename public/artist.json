@@ -3,10 +3,20 @@
     "pages": "6",
     "nestx":"",
     "prev": null
-
 },
-
 "results":[
+    {
+        "id":1,
+        "title":"Dennis Rodman",
+        "artist":"Benoit Drigny",
+        "type":"ilustration",
+        "dimensions":"",
+        "url":"https://dribbble.com/shots/24355490-Dennis-Rodman",
+        "imagen":"https://f8n-production-collection-assets.imgix.net/1/0x35e5197EeB62D47b12aeCc15595D8e63aD2AC277/6/nft.jpg?auto=format%2Ccompress&q=70&cs=srgb&h=1200&w=1200&fnd_key=v1",
+        "precio":"0.2 ETH"
+    }],
+
+"resultsCOPIA":[
     {
         "id":1,
         "title":"Dennis Rodman",

@@ -1,5 +1,6 @@
 import { Outlet } from "react-router-dom";
-//import './css/catalogo.css'
+import Catalogo from "./pages/Catalogo";
+import './css/catalogo.css'
 
 const Layout = () => {
     return (  
@@ -8,6 +9,8 @@ const Layout = () => {
         <div>
             
             <h1>HOLA!!</h1>
+            <Catalogo/>
+
             <main>
                 <Outlet/>
             </main>
