@@ -1,10 +1,12 @@
 
 import {useState, useEffect,useContext } from "react"
 import { ModoOscuroContext} from "../Layout"
+import Producto from "./Producto"
+
 
 const Catalogo = () => {
 
-    const {tema}= useContext(ModoOscuroContext)
+    const {tema,nombre,setTema}= useContext(ModoOscuroContext)
 
    const [ficha,setFicha]=useState([])
    //const [filterProducto,setFilterProducto]=useState([])
@@ -37,7 +39,8 @@ const Catalogo = () => {
 
     return ( 
         <>
-        Welcome
+        <h1>Catalogo({tema} - {nombre})</h1>
+        <p><button onClick={()=>{setTema(tema== "dark"?"light":"dark")}}>Cambiar Tema:{tema}</button></p>
         <article>
 
         <div>
@@ -48,7 +51,7 @@ const Catalogo = () => {
                     <h1>Catalogo ({tema})</h1>
                     {/* <img src={fichita.imagen} alt={fichita.artist} />
                     <li key={fichita.id}>{fichita.artist}</li> */}
-                    <Productos key={index} {...fichita}/>
+                    <Producto key={index} {...fichita}/>
                     </>
                 )
                 

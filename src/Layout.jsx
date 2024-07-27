@@ -9,7 +9,10 @@ export const ModoOscuroContext= createContext("light")
 
 
 const Layout = () => {
+    
     const [tema,setTema]=useState("light")
+
+    const nombre="Tomy"
 
 
 
