@@ -4,7 +4,7 @@
     "nestx":"",
     "prev": null
 },
-"resultsCero":[
+"__comentado_results":[
     {
         "id":1,
         "title":"Dennis Rodman",
@@ -14,7 +14,7 @@
         "medium":"image/JPEG",
         "url":"https://dribbble.com/shots/24355490-Dennis-Rodman",
         "imagen":"https://f8n-production-collection-assets.imgix.net/1/0x35e5197EeB62D47b12aeCc15595D8e63aD2AC277/6/nft.jpg?auto=format%2Ccompress&q=70&cs=srgb&h=1200&w=1200&fnd_key=v1",
-        "precio":"0.2 ETH"
+        "precio_ETH":0.2
     }],
 
 "results":[
@@ -24,9 +24,9 @@
         "artist":"Benoit Drigny",
         "type":"ilustration",
         "dimensions":"300x300",
-        "url":"https://dribbble.com/shots/24355490-Dennis-Rodman",
-        "imagen":"https://f8n-production-collection-assets.imgix.net/1/0x6F4646F7CFd71Bc50D5c47bBFF1Fe9f75074Be8c/3/nft.jpg?auto=format%2Ccompress&q=70&cs=srgb&h=1200&w=1200&fnd_key=v1",
-        "precio":"0.4 ETH"    
+        "url":"https://f8n-production-collection-assets.imgix.net/1/0x6F4646F7CFd71Bc50D5c47bBFF1Fe9f75074Be8c/3/nft.jpg?auto=format%2Ccompress&q=70&cs=srgb&h=1200&w=1200&fnd_key=v1",
+        "imagen":"",
+        "precio":0.4   
     },
 
     {

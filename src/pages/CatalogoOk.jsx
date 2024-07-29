@@ -23,9 +23,9 @@ const CatalagoOk=()=>{
         prev:null
     })
 
-    // const handleEuros=()=>{
-    //     setEuros(ingreso+euros)
-    // }
+    const handleEuros=()=>{
+        setEuros(ingreso+euros)
+    }
 
     // const handleCartera=()=>{
     //     setCartera(...resultados)
