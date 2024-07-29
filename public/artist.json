@@ -4,120 +4,111 @@
     "nestx":"",
     "prev": null
 },
-"results":[
+"resultsCero":[
     {
         "id":1,
         "title":"Dennis Rodman",
         "artist":"Benoit Drigny",
         "type":"ilustration",
-        "dimensions":"",
+        "dimensions":"300x300",
         "medium":"image/JPEG",
         "url":"https://dribbble.com/shots/24355490-Dennis-Rodman",
         "imagen":"https://f8n-production-collection-assets.imgix.net/1/0x35e5197EeB62D47b12aeCc15595D8e63aD2AC277/6/nft.jpg?auto=format%2Ccompress&q=70&cs=srgb&h=1200&w=1200&fnd_key=v1",
         "precio":"0.2 ETH"
     }],
 
-"resultsCOPIA":[
+"results":[
     {
         "id":1,
         "title":"Dennis Rodman",
         "artist":"Benoit Drigny",
         "type":"ilustration",
-        "dimensions":"",
+        "dimensions":"300x300",
         "url":"https://dribbble.com/shots/24355490-Dennis-Rodman",
-        "imagen":"https://dribbble.com/shots/24355490-Dennis-Rodman",
-        "precio":"0.2 ETH"
+        "imagen":"https://f8n-production-collection-assets.imgix.net/1/0x6F4646F7CFd71Bc50D5c47bBFF1Fe9f75074Be8c/3/nft.jpg?auto=format%2Ccompress&q=70&cs=srgb&h=1200&w=1200&fnd_key=v1",
+        "precio":"0.4 ETH"    
     },
 
     {
         "id":2,
         "title":"",
-        "artist":"",
+        "artist":"Ricardet",
         "type":"",
-        "dimensions":"",
-        "url":"",
+        "dimensions":"300x300",
+        "url":"https://f8n-production-collection-assets.imgix.net/1/0xD21b303B98942A42d4011D625528038Ff1201004/1/nft.png?auto=format%2Ccompress&q=70&cs=srgb&h=1200&w=1200&fnd_key=v1",
         "imagen":"",
-        "precio":""
+        "precio":"0.23 ETH"
     },
     {
         "id":3,
         "title":"",
-        "artist":"",
+        "artist":"Paco",
         "type":"",
-        "dimensions":"",
-        "url":"",
+        "dimensions":"300x300",
+        "url":"https://f8n-production-collection-assets.imgix.net/1/0x563713Dc0486f79a7dFa26aFDa5b373ca8AeC55d/7/nft.jpg?auto=format%2Ccompress&q=70&cs=srgb&h=1200&w=1200&fnd_key=v1",
         "imagen":"",
-        "precio":""
+        "precio":"0.87 ETH"
     },
     {
         "id":4,
         "title":"",
-        "artist":"",
+        "artist":"Maria",
         "type":"",
-        "dimensions":"",
-        "url":"",
+        "dimensions":"300x300",
+        "url":"https://f8n-production-collection-assets.imgix.net/1/0xe196543E8381c3a24e2b02Ef58Ef75Bbb088e298/8/nft.jpg?auto=format%2Ccompress&q=70&cs=srgb&h=1200&w=1200&fnd_key=v1",
         "imagen":"",
-        "precio":""
+        "precio":"0.44 ETH"
     },
     {
         "id":5,
         "title":"",
-        "artist":"",
+        "artist":"Amparoles",
         "type":"",
-        "dimensions":"",
-        "url":"",
+        "dimensions":"300x300",
+        "url":"https://f8n-production-collection-assets.imgix.net/8453/0x7CD2D52631a483EaD063A018fF975E64d575eeAa/9/nft.gif?fm=mp4",
         "imagen":"",
-        "precio":""
+        "precio":"0.25 ETH"
     },
     {
         "id":6,
         "title":"",
-        "artist":"",
+        "artist":"Pedro",
         "type":"",
-        "dimensions":"",
-        "url":"",
+        "dimensions":"300x300",
+        "url":"https://f8n-production-collection-assets.imgix.net/8453/0xd36A10102E5a26b6F33B4c44beFCCa3cD57d4A2b/9/nft.jpg?auto=format%2Ccompress&q=70&cs=srgb&h=1200&w=1200&fnd_key=v1",
         "imagen":"",
-        "precio":""
+        "precio":"0.2 ETH"
     },
     {
         "id":7,
         "title":"",
-        "artist":"",
+        "artist":"Santo Domingo",
         "type":"",
-        "dimensions":"",
-        "url":"",
+        "dimensions":"300x300",
+        "url":"https://f8n-production-collection-assets.imgix.net/1/0xeF8E65258C770437E1170Aec095BF0bAC8960F3c/11/nft.jpg?auto=format%2Ccompress&q=70&cs=srgb&h=1200&w=1200&fnd_key=v1",
         "imagen":"",
-        "precio":""
+        "precio":"0.3 ETH"
     },
     {
         "id":8,
         "title":"",
-        "artist":"",
+        "artist":"Eulalia",
         "type":"",
-        "dimensions":"",
-        "url":"",
+        "dimensions":"300x300",
+        "url":"https://f8n-production-collection-assets.imgix.net/1/0x8119Cac0B67641E2c7D40583eb5a099BdF6C28F5/1/nft.jpg?auto=format%2Ccompress&q=70&cs=srgb&dpr=2&h=640&w=640&fnd_key=v1",
         "imagen":"",
-        "precio":""
+        "precio":"0.5 ETH"
     },
-    {
-        "id":9,
-        "title":"",
-        "artist":"",
-        "type":"",
-        "dimensions":"",
-        "url":"",
-        "imagen":"",
-        "precio":""
-    },
+
     {
         "id":10,
         "title":"",
-        "artist":"",
+        "artist":"Daniela",
         "type":"",
-        "dimensions":"",
-        "url":"",
+        "dimensions":"300x300",
+        "url":"https://f8n-production-collection-assets.imgix.net/1/0x8119Cac0B67641E2c7D40583eb5a099BdF6C28F5/1/nft.jpg?auto=format%2Ccompress&q=70&cs=srgb&dpr=2&h=640&w=640&fnd_key=v1",
         "imagen":"",
-        "precio":""
+        "precio":"0.1 ETH"
     }
 
 
