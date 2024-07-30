@@ -5,6 +5,8 @@ import './css/catalogo.css'
 import Laboratorio from "./LABORATORIO/Laboratorio";
 import CatalagoOk from "./pages/CatalogoOk";
 import Laboratorio2 from "./LABORATORIO/Laboratorio2";
+import CanvasSketch from "./LABORATORIO/CanvasSketch";
+
 
 
 
@@ -34,6 +36,11 @@ const Layout = () => {
         <div >
         <CatalagoOk/>
         <Laboratorio2/>
+        <CanvasSketch/>
+
+        <script scr="/LABORATORIO/CanvasSketch.js"></script>
+        <script src="/LABORATORIO/Historias/js/javascript.js"></script>
+        
 
         </div>
         {/* <ModoOscuroContext.Provider value={{tema,setTema,nombre}}/> */}
