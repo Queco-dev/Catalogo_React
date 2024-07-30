@@ -10,7 +10,7 @@ const settings={
 
 const sketch=()=>{
   return ({context,width,height})=>{
-    context.fillStyle= "pink"
+    context.fillStyle= "lightblue"
     context.fillRect(0,0,width,height)
 
     for (let i=0; i<5; i++ ){
