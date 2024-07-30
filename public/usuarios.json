@@ -1,0 +1,15 @@
+[
+    {
+        "id":"user-25",
+        "nombre":"toni",
+        "clave":"1234"
+    },
+    {
+        "id":"peli-1",
+        "id-usuario":"user-25",
+        "titulo":"",
+        "director":"",
+        "imagen":"",
+        "año":1976
+    }
+]
